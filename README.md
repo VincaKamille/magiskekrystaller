@@ -1,0 +1,2 @@
+# magiskekrystaller
+Min krystalside
