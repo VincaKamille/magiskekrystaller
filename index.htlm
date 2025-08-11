@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Magiske Krystaller</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Magiske Krystaller</h1>
+    <nav>
+        <a href="index.html">Forside</a>
+        <a href="lommesten.html">Lommesten</a>
+        <a href="raakrystaller.html">Rå krystaller</a>
+        <a href="spirituelleredskaber.html">Spirituelle redskaber</a>
+        <a href="smykker.html">Smykker</a>
+        <a href="bestilling.html">Bestilling</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Kategorier</h2>
+    <div class="category-container">
+        <div class="category-box">
+            <img src="https://via.placeholder.com/300x200" alt="Lommesten">
+            <h2>Lommesten</h2>
+            <p><!-- Rediger her: Kort beskrivelse af lommesten --></p>
+            <a class="btn" href="lommesten.html">Se mere</a>
+        </div>
+        <div class="category-box">
+            <img src="https://via.placeholder.com/300x200" alt="Rå krystaller">
+            <h2>Rå krystaller</h2>
+            <p><!-- Rediger her: Kort beskrivelse af rå krystaller --></p>
+            <a class="btn" href="raakrystaller.html">Se mere</a>
+        </div>
+        <div class="category-box">
+            <img src="https://via.placeholder.com/300x200" alt="Spirituelle redskaber">
+            <h2>Spirituelle redskaber</h2>
+            <p><!-- Rediger her: Kort beskrivelse af spirituelle redskaber --></p>
+            <a class="btn" href="spirituelleredskaber.html">Se mere</a>
+        </div>
+        <div class="category-box">
+            <img src="https://via.placeholder.com/300x200" alt="Smykker">
+            <h2>Smykker</h2>
+            <p><!-- Rediger her: Kort beskrivelse af smykker --></p>
+            <a class="btn" href="smykker.html">Se mere</a>
+        </div>
+    </div>
+
+    <div class="facebook-section">
+        <h2>Følg med i vores Facebook-gruppe</h2>
+        <p>Bliv en del af fællesskabet <strong>Stjerne, sol og måne</strong> og få adgang til eksklusive tilbud og inspiration.</p>
+        <a href="https://www.facebook.com/groups/" target="_blank">Bliv medlem her</a>
+    </div>
+</main>
+
+<footer>
+    &copy; 2025 Magiske Krystaller
+</footer>
+</body>
+</html>
