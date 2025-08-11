@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smykker - Magiske Krystaller</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Magiske Krystaller</h1>
+    <nav>
+        <a href="index.html">Forside</a>
+        <a href="lommesten.html">Lommesten</a>
+        <a href="raakrystaller.html">Rå krystaller</a>
+        <a href="spirituelleredskaber.html">Spirituelle redskaber</a>
+        <a href="smykker.html">Smykker</a>
+        <a href="bestilling.html">Bestilling</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Smykker</h2>
+    <p><!-- Rediger her: Beskriv kategorien Smykker --></p>
+
+    <div class="category-container">
+        <!-- Produkt 1 -->
+        <div class="category-box">
+            <img src="https://via.placeholder.com/300x200" alt="Placeholder">
+            <h2><!-- Navn på smykke --></h2>
+            <p><!-- Kort beskrivelse af smykke --></p>
+            <p><strong>Pris:</strong> <!-- Pris --></p>
+        </div>
+
+        <!-- Produkt 2 -->
+        <div class="category-box">
+            <img src="https://via.placeholder.com/300x200" alt="Placeholder">
+            <h2><!-- Navn på smykke --></h2>
+            <p><!-- Kort beskrivelse af smykke --></p>
+            <p><strong>Pris:</strong> <!-- Pris --></p>
+        </div>
+
+        <!-- Produkt 3 -->
+        <div class="category-box">
+            <img src="https://via.placeholder.com/300x200" alt="Placeholder">
+            <h2><!-- Navn på smykke --></h2>
+            <p><!-- Kort beskrivelse af smykke --></p>
+            <p><strong>Pris:</strong> <!-- Pris --></p>
+        </div>
+    </div>
+</main>
+
+<footer>
+    &copy; 2025 Magiske Krystaller
+</footer>
+</body>
+</html>
